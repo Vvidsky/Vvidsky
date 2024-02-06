@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 </a>
 
-A junior specializing in Database and Intelligent Systems in the Faculty of ICT at Mahidol University
+A senior specializing in Database and Intelligent Systems in the Faculty of ICT at Mahidol University
 
 ## Skills
 ### Languages
