@@ -20,5 +20,5 @@ A senior specializing in Database and Intelligent Systems in the Faculty of ICT 
           
 
 ### Cloud Technology
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="width:40px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="width:40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="width:40px;"/>
           
